@@ -1,11 +1,16 @@
 _repo: The-rise-progress-and-phases-of-human-slavery-how-it-came-into-the-world-and-how-it-shall-be-__66031
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66031-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Brien, James Bronterre
     gutenberg_agent_id: '53606'
     url: http://www.gutenberg.org/2009/agents/53606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66031#The-rise-progress-and-phases-of-human-slavery-how-it-came-into-the-world-and-how-it-shall-be-_
 gutenberg_issued: '2021-08-10'
 gutenberg_type: Text
 identifiers:
